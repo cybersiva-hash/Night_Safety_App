@@ -23,12 +23,6 @@
 
 ---
 
-## Screenshots
-
-*(Add your screenshots here for better presentation)*
-
----
-
 ## Getting Started
 
 ### Prerequisites
