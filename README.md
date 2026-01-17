@@ -128,4 +128,3 @@ NightSafetyApp/
 
 MIT License © 2026
 
-Do you want me to do that too?
